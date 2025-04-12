@@ -6,9 +6,7 @@
 
 > **Application desktop** pour la gestion de voyages, réservations et activités touristiques.
 
-## 📸 Captures d'Écran
-*(Ajoutez vos images ici)*  
-![Exemple Interface](https://via.placeholder.com/600x400?text=Interface+TripManage)
+
 
 ## 🛠 Fonctionnalités
 - ✈️ Gestion des voyages (création, modification, suppression)
@@ -16,6 +14,7 @@
 - 📊 Tableau de bord statistique
 - 🔍 Système de recherche avancée
 - 📤 Export PDF des réservations
+- 📧 Mailing
 
 ## ⚙️ Prérequis
 - JDK 17+
